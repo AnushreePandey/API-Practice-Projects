@@ -1,0 +1,14 @@
+language: node_js
+node_js:
+  - 'v16.14.2'
+
+install:
+  - npm install -g newman
+
+before_script:
+  - node --version
+  - npm --version
+  - newman --version
+
+script:
+  - newman run Simple_Book_API_Collection.json
