@@ -1,2 +1,2 @@
 # API-Practice-Projects
-A repository for sample API Manual and Automation testing projects
+A repository for API Manual and Automation testing practice projects
