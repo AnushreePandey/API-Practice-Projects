@@ -10,4 +10,6 @@ before_script:
   - newman --version
 
 script:
-  - newman run Simple_Book_API_Collection.json
+  - newman run Simple_Book_API_Collection.json OR 
+  - newman run Copy link from Postman Collection OR 
+  - newman run https://api.getpostman.com/collections/{{collection_uid}} --> This script requires API Key as X-Api-Key request header or apikey URL query parameter.
