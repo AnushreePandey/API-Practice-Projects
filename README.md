@@ -1,6 +1,6 @@
 # API-Practice-Projects
 A repository for API Manual and Automation testing practice projects
 ______________________________________________________________________________________________________________________________
-Project 1 -  Simple_Book_API_Collection.json
+##Project 1 -  Simple_Book_API_Collection.json
  
- This project has tests written in JavaScript language in Postman tool.
+ 
