@@ -10,6 +10,8 @@ ________________________________________________________________________________
 5. [Maven](https://maven.apache.org/) as build automation tool
 6. [Hamcrest](http://hamcrest.org/) as the matcher library.
 7. [Newman](https://www.npmjs.com/package/newman) as command-line collection runner for Postman.
-8. [Eclipse 2022-03](https://www.eclipse.org/downloads/packages/release/oxygen/3a/eclipse-ide-java-developers) as IDE
+8. [HTML Reporter](https://www.npmjs.com/package/html-reporter) as plugin for generating testing reports.
+9. [Eclipse 2022-03](https://www.eclipse.org/downloads/packages/release/oxygen/3a/eclipse-ide-java-developers) as IDE.
+10. 
  
  
