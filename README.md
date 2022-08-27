@@ -12,6 +12,6 @@ ________________________________________________________________________________
 7. [Newman](https://www.npmjs.com/package/newman) as command-line collection runner for Postman.
 8. [HTML Reporter](https://www.npmjs.com/package/html-reporter) as plugin for generating testing reports.
 9. [Eclipse 2022-03](https://www.eclipse.org/downloads/packages/release/oxygen/3a/eclipse-ide-java-developers) as IDE.
-10. 
+ 
  
  
